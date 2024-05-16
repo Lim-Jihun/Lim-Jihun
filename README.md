@@ -1,6 +1,6 @@
 <h1>Hello, World!</h1>
 
-**I'm Dongwoo Kim,**
+**I'm ,**
 
 **kimphysicsman@gmail.com**
 
