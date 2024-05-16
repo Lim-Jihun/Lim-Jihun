@@ -4,9 +4,7 @@
 
 **dlawlgns1862@gmail.com**
 
-<a href="https://velog.io/@kimphysicsman">
- <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="28px" />
-</a>
+
 
 <br />
 
