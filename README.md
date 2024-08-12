@@ -8,7 +8,6 @@ Python : 50%
 Sprimg : 40%
 SQL :  30%
 
-
 # 📝Projects
 ## 1. 종고수쿨             
    (중고등학생을 위한 중고거래 플랫폼 웹사이트)     
@@ -21,7 +20,7 @@ SQL :  30%
    (다마고치 키우기)   
    팀 프로젝트 개발 기간: 2024.01.26 ~ 2024.01.30   
    기술 스택: Java 8 / Oracle SQL
-
+[Growing-Cookies](https://github.com/Lim-Jihun/Growing-Cookies)
 # 교육사항
 학력 : 동강대학교 전문대 졸업     
 전공 : 공간전보 드론과    
