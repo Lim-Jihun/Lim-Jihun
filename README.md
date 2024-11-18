@@ -9,10 +9,11 @@
 
 
 # 기술 스택/Skill set
-Java : 70%
+Java : 65%
+JaavaScript: 70%
 Python : 50%
-Sprimg : 40%
-SQL :  30%
+Sprimg : 65%
+SQL :  60%
 </br> 
 
 # 📝Projects
