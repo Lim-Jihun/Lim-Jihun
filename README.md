@@ -35,7 +35,7 @@ SQL :  60%
    >- 회원상태 병경 기능
    >- 사용자 상품 게시글 관리 기능 구현
    >
-  > * [second-hand-school](https://github.com/Lim-Jihun/second-hand-school.git)
+  > * [second-hand-school](https://github.com/memorygreen/KDT_Core_Project.git)
 
     
 ## 3. 헥사코어     
